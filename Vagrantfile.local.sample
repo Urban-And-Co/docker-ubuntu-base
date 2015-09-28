@@ -1,0 +1,7 @@
+MEMORY = "2048"
+CPU = "2"
+IP = "192.168.33.10"
+BOX = "ubuntu/trusty64"
+GUI = false
+USE_NFS = true
+HOSTNAME = "docker.localhost.com"
